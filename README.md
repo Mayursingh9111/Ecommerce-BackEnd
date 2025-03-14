@@ -2,7 +2,7 @@
 
 ## Base URL
 ```
-https://ecommerce-api-aco4.onrender.com
+https://ecommerce-backend-ardl.onrender.com
 ```
 
 ## Authentication
